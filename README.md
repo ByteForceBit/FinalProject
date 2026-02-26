@@ -1,1 +1,1 @@
-# SmartTaxManager
+# SmartExpenseTracker
